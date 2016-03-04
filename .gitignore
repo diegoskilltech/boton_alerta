@@ -11,6 +11,9 @@ pids
 logs
 results
 
+npm-debug.log
+node_modules
+
 mobile/.cordova/
 mobile/hooks/
 mobile/plugins/
