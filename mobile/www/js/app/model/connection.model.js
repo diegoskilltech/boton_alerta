@@ -60,6 +60,8 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
                 .c("body")
                 .t(body);
 
+            this.log('Enviando alerta...');
+
             //Register the handler, since is cleared once the message is processed
 			this.connection.addHandler(_.bind(this.onMessage, this), null, 'message', null, null,  null); 
 
@@ -101,7 +103,7 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
 				ButtonApp.Event.trigger('xmpp-disconnected');
 
 			} else if (status == Strophe.Status.CONNECTED) {
-				this.log('Dispositivo conectado');
+				this.log('Centro de operaciones conectado');
 				ButtonApp.Event.trigger('xmpp-connected');
 			}
 		},
@@ -112,6 +114,8 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
 			var body = JSON.parse(msg.find('body').text());
 			console.log('===>> STROPHE ON MESSAGE: ', body);
 			ButtonApp.Event.trigger('xmpp-message', body);
+
+			this.log(CodesModel.MSG_STATUS_DESCRIPTION[body.status]);
 		}
 	};
 });

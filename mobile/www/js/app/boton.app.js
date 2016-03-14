@@ -64,7 +64,10 @@ define(['jquery', 'underscore', 'handlebars', './model/connection.model', './mod
 		onResponse: function(e, msg){
 			var which = CodesModel.CALLTYPES_BY_CODE[msg.toCall];
 			var status = this.status[msg.status]();
-			$(['[data-to=', which, ']'].join('')).append(status);
+			var container = $(['[data-to=', which, ']'].join(''));
+			container.remove('.status-icon').append(status);
+
+			navigator.vibrate(200);
 		}
 	};
 
