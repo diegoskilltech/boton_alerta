@@ -91,15 +91,15 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
 				ButtonApp.Event.trigger('xmpp-connecting');
 
 			} else if (status == Strophe.Status.CONNFAIL) {
-				this.log('Strophe failed to connect.');
+				this.log('Fallo al intentar conectar');
 				ButtonApp.Event.trigger('xmpp-connection-failed');
 
 			} else if (status == Strophe.Status.DISCONNECTING) {
-				this.log('Strophe is disconnecting.');
+				this.log('Desconectando del centro de operaciones');
 				ButtonApp.Event.trigger('xmpp-disconnecting');
 
 			} else if (status == Strophe.Status.DISCONNECTED) {
-				this.log('Strophe is disconnected.');
+				this.log('Centro de operaciones no conectado');
 				ButtonApp.Event.trigger('xmpp-disconnected');
 
 			} else if (status == Strophe.Status.CONNECTED) {
