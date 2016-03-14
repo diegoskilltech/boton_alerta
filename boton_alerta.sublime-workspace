@@ -1,0 +1,1831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Strophe"
+			],
+			[
+				"Str",
+				"StropheModule"
+			],
+			[
+				"BO",
+				"BOSH_DOMAIN"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"d",
+				"deferred"
+			],
+			[
+				"dest",
+				"destUsers"
+			],
+			[
+				"u",
+				"updated"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"de",
+				"defer"
+			],
+			[
+				"src",
+				"srcUsers"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"ty",
+				"typeExtractor"
+			],
+			[
+				"on",
+				"onError"
+			],
+			[
+				"progrm",
+				"programId"
+			],
+			[
+				"station",
+				"stationId"
+			],
+			[
+				"lisn",
+				"listings"
+			],
+			[
+				"lis",
+				"listings"
+			],
+			[
+				"lisi",
+				"listing"
+			],
+			[
+				"pr",
+				"program"
+			],
+			[
+				"null",
+				"nullQuery"
+			],
+			[
+				"date",
+				"dateQuery"
+			],
+			[
+				"nu",
+				"nullQuery"
+			],
+			[
+				"data",
+				"dateRange"
+			],
+			[
+				"bu",
+				"buildDateRange"
+			],
+			[
+				"prod",
+				"ProductTagInfo"
+			],
+			[
+				"Prod",
+				"ProductTagInfo"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"acco",
+				"accountId"
+			],
+			[
+				"aco",
+				"accountId"
+			],
+			[
+				"def",
+				"defer"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"mpx",
+				"mpxUser"
+			],
+			[
+				"mxp",
+				"mpxAuthenticationService"
+			],
+			[
+				"media",
+				"mediaFileOId"
+			],
+			[
+				"fom",
+				"form_info"
+			],
+			[
+				"show",
+				"show_info"
+			],
+			[
+				"admin",
+				"adminToken"
+			],
+			[
+				"User",
+				"UserDao"
+			],
+			[
+				"set",
+				"setMpxPassword"
+			],
+			[
+				"upda",
+				"updatePassword"
+			],
+			[
+				"log",
+				"loginMpx"
+			],
+			[
+				"m",
+				"mpxUser"
+			],
+			[
+				"mp",
+				"mpxAuthenticationService"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"Re",
+				"RejectLogin"
+			],
+			[
+				"lo",
+				"loginKnownAPIUser"
+			],
+			[
+				"Login",
+				"LoginStrategy"
+			],
+			[
+				"c",
+				"chain"
+			],
+			[
+				"get",
+				"getAdminToken"
+			],
+			[
+				"Lo",
+				"LoginChain"
+			],
+			[
+				"get_u",
+				"get_single_user"
+			],
+			[
+				"is",
+				"isMerge"
+			],
+			[
+				"fb",
+				"fb_id"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"get_pr",
+				"get_profile_by_email"
+			],
+			[
+				"curl",
+				"curl_response"
+			],
+			[
+				"mergin",
+				"merging"
+			],
+			[
+				"login",
+				"login_api"
+			],
+			[
+				"cont",
+				"contentFile"
+			],
+			[
+				"th",
+				"thumbFile"
+			],
+			[
+				"thu",
+				"thumbFile"
+			],
+			[
+				"link",
+				"linkFile"
+			],
+			[
+				"rev",
+				"reserveId"
+			],
+			[
+				"b",
+				"buildUrls"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"to",
+				"toHexString"
+			],
+			[
+				"by",
+				"byId"
+			],
+			[
+				"as",
+				"assetTypeDoc"
+			],
+			[
+				"ass",
+				"assetType"
+			],
+			[
+				"asst",
+				"assetType"
+			],
+			[
+				"asse",
+				"assetTypes"
+			],
+			[
+				"Medi",
+				"MediaFile"
+			],
+			[
+				"Media",
+				"MediaDao"
+			],
+			[
+				"file",
+				"fileObj"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"medi",
+				"mediaFile"
+			],
+			[
+				"server",
+				"serverId"
+			],
+			[
+				"reque",
+				"require"
+			],
+			[
+				"map",
+				"mapServerUrl"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"down",
+				"downloadUrl"
+			],
+			[
+				"strea",
+				"streamingUrl"
+			],
+			[
+				"account",
+				"accountId"
+			],
+			[
+				"med",
+				"mediaFiles"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"onS",
+				"onSuccess"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"me",
+				"mediaFilePlain"
+			],
+			[
+				"use",
+				"userAdmin"
+			],
+			[
+				"perm",
+				"permissionService"
+			],
+			[
+				"sour",
+				"sourceUrl"
+			],
+			[
+				"source",
+				"sourceFile"
+			],
+			[
+				"mediaFile",
+				"mediaFileSettings"
+			],
+			[
+				"copy",
+				"copyNewFilesPlain"
+			],
+			[
+				"mediaF",
+				"mediaFile"
+			],
+			[
+				"stora",
+				"storageUrl"
+			],
+			[
+				"so",
+				"sourceFile"
+			],
+			[
+				"cop",
+				"copyNewFile"
+			],
+			[
+				"obje",
+				"object"
+			],
+			[
+				"stor",
+				"storageUrl"
+			],
+			[
+				"sto",
+				"storageUrl"
+			],
+			[
+				"t",
+				"thumbnails"
+			],
+			[
+				"defa",
+				"defaultServer"
+			],
+			[
+				"prome",
+				"promises"
+			],
+			[
+				"des",
+				"destPath"
+			],
+			[
+				"promi",
+				"promises"
+			],
+			[
+				"thum",
+				"thumbFile"
+			],
+			[
+				"MEdia",
+				"MediaFile"
+			],
+			[
+				"accou",
+				"accountId"
+			],
+			[
+				"ser",
+				"servers"
+			],
+			[
+				"un",
+				"unassigned"
+			],
+			[
+				"acc",
+				"accountOId"
+			],
+			[
+				"ava",
+				"availabilityState"
+			],
+			[
+				"tit",
+				"titleEnum"
+			],
+			[
+				"asset",
+				"assetType"
+			],
+			[
+				"accoun",
+				"accountOid"
+			],
+			[
+				"role",
+				"roleId"
+			],
+			[
+				"Pm",
+				"PermissionDao"
+			],
+			[
+				"permi",
+				"permissionId"
+			],
+			[
+				"Obe",
+				"ObjectId"
+			],
+			[
+				"ca",
+				"cached"
+			],
+			[
+				"rol",
+				"rolesMap"
+			],
+			[
+				"Permi",
+				"Permission"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"au",
+				"authenticationService"
+			],
+			[
+				"sign",
+				"signout"
+			],
+			[
+				"ACC",
+				"accessToken"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/views/index.jade",
+			"settings":
+			{
+				"buffer_size": 3115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mobile/www/css/framework7.material.min.css",
+			"settings":
+			{
+				"buffer_size": 157699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/boton-alerta.styl",
+			"settings":
+			{
+				"buffer_size": 966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mobile/www/js/index.js",
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mobile/www/js/app/boton.app.js",
+			"settings":
+			{
+				"buffer_size": 2322,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mobile/www/css/ionicons.min.css",
+			"settings":
+			{
+				"buffer_size": 51282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mobile/www/js/app/model/codes.model.js",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Windows",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "mobile/www/js/app/model/connection.model.js",
+			"settings":
+			{
+				"buffer_size": 3114,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mobile/config.xml",
+			"settings":
+			{
+				"buffer_size": 4399,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Diego/Git/boton_alerta",
+		"/C/Users/Diego/Git/boton_alerta/mobile",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/css",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/app",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/app/model",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/libs"
+	],
+	"file_history":
+	[
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/css/ionicons.min.css",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/font/ionicons.svg",
+		"/C/Users/Diego/Git/boton_alerta/src/css/boton-alerta.styl",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/app/model/connection.model.js",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/model/connection.model.js",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/index.js",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/index.js",
+		"/C/Users/Diego/Git/boton_alerta/mobile/www/js/libs/strophe.register.js",
+		"/C/Users/Diego/Git/boton_alerta/Gruntfile.js",
+		"/C/Users/Diego/Desktop/skilltech/BotonAlerta/slide-2-funcionamiento.pdf",
+		"/C/Users/Diego/Desktop/uvod/maintenance-scripts/migrate-users.js",
+		"/C/Users/Diego/Git/boton_alerta/boton_alerta.sublime-project",
+		"/C/Users/Diego/Git/boton_alerta/.gitignore",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/stationDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/userDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/query.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/authenticationService.js",
+		"/C/Users/Diego/Desktop/calcubox/maintenance-scripts/del-employee.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/mediaService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/ingestService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/media.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/mediaDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/media.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/mediaFile.js",
+		"/C/Users/Diego/Git/uvod-platform-api/server.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/mediaFileService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/newrelic.js",
+		"/C/Users/Diego/Git/uvod-platform-api/config/app-logging.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/userService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/package.json",
+		"/C/Users/Diego/Git/uvod-platform-api/config/config.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/userProfile.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/userProfileDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/programDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/listingService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/listing.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/listing.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/enduser.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/exception.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/listingDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/program.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/stationService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/config/static/roles.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/programService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/pricingTemplateService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/pricingTemplate.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/mpxauth.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/adminuser.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/program.js",
+		"/C/Users/Diego/Git/uvod-platform-api/node_modules/mongojs/node_modules/mongodb/node_modules/kerberos/lib/win32/wrappers/security_credentials.cc",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/station.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/station.js",
+		"/C/Users/Diego/Git/uvod-platform-api/node_modules/log4js/lib/streams/RollingFileStream.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/categoryDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/categoryInfo.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/assetTypeDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/userProfileService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/contractDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/contract.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/userProfile.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/contractService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/contract.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/product.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/billingScheduleTier.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/periodEnum.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/subscription.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/subscription.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/subscriptiontDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/subscriptionService.js",
+		"/D/workspace/sugitdominios/domain-scrap-single.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/pricingTemplateDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/relativePricingTier.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/absolutePricingTier.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/pricingTemplate.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/product.js",
+		"/C/Users/Diego/Git/domain-bot/domain-scrap-single.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/productDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/scopeInfo.json",
+		"/C/Users/Diego/Git/uvod-platform-api/service/productService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/user.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/permissionService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/permissionDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/permission.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/ingest.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/mpxAuthenticationService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/strategy/mpxAuthStrategy.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/mpxDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/strategy/mpxPasswordStrategy.js",
+		"/D/workspace/uvod-api/application/models/user_model.php",
+		"/D/workspace/uvod-api/application/config/config.php",
+		"/D/workspace/uvod-portal/application/models/account_model.php",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/mediaFileDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/result.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/category.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/categoryService.js",
+		"/D/workspace/uvod-portal/application/views/themes/rjr/pages/signin.php",
+		"/D/workspace/uvod-portal/application/views/themes/rjr/pages/register.php",
+		"/D/workspace/uvod-portal/application/controllers/account.php",
+		"/D/workspace/uvod-api/application/controllers/user.php",
+		"/D/workspace/uvod-api/application/libraries/REST_Controller.php",
+		"/D/workspace/uvod-api/env.php",
+		"/D/workspace/uvod-portal/application/views/themes/original/pages/signin.php",
+		"/D/workspace/uvod-api/application/config/config_rjr.php",
+		"/D/workspace/uvod-api/application/config/local/config_rjr.php",
+		"/D/workspace/uvod-portal/application/config/config_rjr.php",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/mediaFile.js",
+		"/C/Users/Diego/Git/uvod-platform-api/testParse.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/assetType.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/fileManager.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/chapter.json",
+		"/C/Users/Diego/Git/uvod-platform-api/ftpTest.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/fileService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/schema/availabilityStateEnum.json",
+		"/C/Users/Diego/Git/uvod-platform-api/middleware/security.js",
+		"/C/Users/Diego/Git/uvod-platform-api/routes/account.js",
+		"/C/Users/Diego/Git/PreguntoAlGobierno/server/public/img/95210.svg",
+		"/C/Users/Diego/Git/uvod-platform-api/service/assetTypeService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/assetType.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/persistence/serverDao.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/model/server.js",
+		"/D/workspace/uvod-portal/application/controllers/uvod_controller.php",
+		"/D/workspace/uvod-portal/composer.json",
+		"/D/workspace/uvod-portal/application/views/themes/uvod/pages/signin.php",
+		"/D/workspace/uvod-portal/system/core/Common.php",
+		"/D/workspace/uvod-api/system/core/Common.php",
+		"/C/Users/Diego/Git/uvod-platform-api/service/accountService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/service/serverService.js",
+		"/C/Users/Diego/Git/uvod-platform-api/ftpRollback.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.js",
+			"*.php",
+			"*.js",
+			"*view*.js",
+			"*Dao.js",
+			"*.js",
+			"*.js",
+			"*.jade",
+			"*.styl",
+			"*.js",
+			"*.jade",
+			"*.js",
+			"*.styl",
+			"*.js",
+			"*.styl",
+			"*.jade",
+			"*.js",
+			"*.jade",
+			"*.styl",
+			"*.js",
+			"*.styl",
+			"*.jade",
+			"*.styl",
+			"*.jade",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"icon",
+			"@font-size",
+			"24px",
+			";",
+			"xmpp-message",
+			"onResponse",
+			"img.action-btn",
+			": ",
+			"codes",
+			"CALL",
+			", data-action='call'",
+			"onDeviceReady",
+			"BotonApp",
+			"ButonApp",
+			"require",
+			"connection",
+			"log",
+			"ButtonApp",
+			"BotonApp",
+			"main",
+			"parentElement.querySelector",
+			"top",
+			".color-",
+			"left",
+			"right",
+			".col-auto",
+			"50",
+			"updated",
+			"accountOid",
+			"companyOId",
+			"src",
+			"db",
+			"conn",
+			"prod",
+			"dev",
+			"companyId",
+			" ",
+			"\" ",
+			"script ",
+			"script",
+			"</script>",
+			"<script type=\"text/javascript\"",
+			"<script type=\"text/javascript\" ",
+			" class=\"event ",
+			"\" ",
+			"/>",
+			"<",
+			"docStation",
+			"update",
+			"insert",
+			"update",
+			"typeExtractor",
+			"parseValue",
+			"typeExtractor",
+			"parseValue",
+			"breal",
+			"val",
+			"sig",
+			"signin",
+			"categories",
+			"mediaService",
+			"MediaDao",
+			"object",
+			"parsed_sort",
+			"getUserById",
+			"authentication",
+			"user",
+			"mediaDao",
+			"insert",
+			"signup",
+			"signin",
+			"sigin",
+			"listing",
+			"listingId",
+			"del : ",
+			"del",
+			"list : ",
+			"list",
+			"ListingDao",
+			"ProgramDao",
+			"station service",
+			"removeListings",
+			"key",
+			"remove : ",
+			"stationId",
+			"_id",
+			"listingId",
+			");",
+			"remove : ",
+			"programId",
+			"remove :",
+			"pricingTemplate",
+			"authenticationService",
+			"admin user router",
+			"listEndUser",
+			"program",
+			"programs",
+			"list",
+			"docProgram",
+			"program",
+			"getUser",
+			"getUSer",
+			"userService",
+			"UserDao",
+			"listing",
+			"Program",
+			"program",
+			"Program",
+			"program",
+			"Listing",
+			"listing",
+			"descriptionLocalized",
+			"companies",
+			"this.",
+			"list : ",
+			"list",
+			"null",
+			"contract",
+			"is3d",
+			"captionTypes",
+			"Category",
+			"Product",
+			"Category",
+			"ProductRouter",
+			"pricingtemplate",
+			"pricingTemplate",
+			"PricingTemplate",
+			"pricingTemplate"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$gray",
+			".gray-border"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 10.0,
+						"translation.y": 767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mobile/www/css/framework7.material.min.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 157699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40999,
+								40999
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 324883.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/css/boton-alerta.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								711,
+								711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 809.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mobile/www/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mobile/www/js/app/boton.app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2002,
+								2002
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 807.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mobile/www/css/ionicons.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51282,
+								51282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mobile/www/js/app/model/codes.model.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "mobile/www/js/app/model/connection.model.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3081,
+								3093
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1789.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "mobile/config.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4390,
+								4390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 807.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "boton_alerta.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boto",
+				"src\\css\\boton-alerta.styl"
+			],
+			[
+				"indexjs",
+				"mobile\\www\\js\\index.js"
+			],
+			[
+				"stationdao",
+				"uvod-platform-api\\service\\persistence\\stationDao.js"
+			],
+			[
+				"ingestser",
+				"uvod-platform-api\\service\\ingestService.js"
+			],
+			[
+				"query",
+				"uvod-platform-api\\service\\model\\query.js"
+			],
+			[
+				"userdao",
+				"uvod-platform-api\\service\\persistence\\userDao.js"
+			],
+			[
+				"authenticationservice",
+				"uvod-platform-api\\service\\authenticationService.js"
+			],
+			[
+				"media",
+				"uvod-platform-api\\service\\model\\media.js"
+			],
+			[
+				"mediaser",
+				"uvod-platform-api\\service\\mediaService.js"
+			],
+			[
+				"mediadao",
+				"uvod-platform-api\\service\\persistence\\mediaDao.js"
+			],
+			[
+				"authen",
+				"uvod-platform-api\\service\\authenticationService.js"
+			],
+			[
+				"users",
+				"uvod-platform-api\\service\\userService.js"
+			],
+			[
+				"mediafileservice",
+				"uvod-platform-api\\service\\mediaFileService.js"
+			],
+			[
+				"server",
+				"uvod-platform-api\\server.js"
+			],
+			[
+				"new",
+				"uvod-platform-api\\newrelic.js"
+			],
+			[
+				"conf",
+				"uvod-platform-api\\config\\config.js"
+			],
+			[
+				"quer",
+				"uvod-platform-api\\service\\model\\query.js"
+			],
+			[
+				"",
+				"uvod-platform-api\\service\\persistence\\userProfileDao.js"
+			],
+			[
+				"userpro",
+				"uvod-platform-api\\service\\persistence\\userProfileDao.js"
+			],
+			[
+				"user",
+				"uvod-platform-api\\service\\userService.js"
+			],
+			[
+				"listing",
+				"uvod-platform-api\\service\\model\\listing.js"
+			],
+			[
+				"listingser",
+				"uvod-platform-api\\service\\listingService.js"
+			],
+			[
+				"programdao",
+				"uvod-platform-api\\service\\persistence\\programDao.js"
+			],
+			[
+				"exceptio",
+				"uvod-platform-api\\service\\model\\exception.js"
+			],
+			[
+				"end",
+				"uvod-platform-api\\routes\\enduser.js"
+			],
+			[
+				"exception",
+				"uvod-platform-api\\service\\model\\exception.js"
+			],
+			[
+				"role.js",
+				"uvod-platform-api\\config\\static\\roles.json"
+			],
+			[
+				"listin",
+				"uvod-platform-api\\routes\\listing.js"
+			],
+			[
+				"stationser",
+				"uvod-platform-api\\service\\stationService.js"
+			],
+			[
+				"program",
+				"uvod-platform-api\\service\\model\\program.js"
+			],
+			[
+				"listingdao",
+				"uvod-platform-api\\service\\persistence\\listingDao.js"
+			],
+			[
+				"progrmaser",
+				"uvod-platform-api\\service\\programService.js"
+			],
+			[
+				"pri",
+				"uvod-platform-api\\routes\\pricingTemplate.js"
+			],
+			[
+				"role",
+				"uvod-platform-api\\config\\static\\roles.json"
+			],
+			[
+				"pricint",
+				"uvod-platform-api\\service\\pricingTemplateService.js"
+			],
+			[
+				"userser",
+				"uvod-platform-api\\service\\userService.js"
+			],
+			[
+				"progrmadao",
+				"uvod-platform-api\\service\\persistence\\programDao.js"
+			],
+			[
+				"config.js",
+				"uvod-platform-api\\config\\config.js"
+			],
+			[
+				"mpxa",
+				"uvod-platform-api\\routes\\mpxauth.js"
+			],
+			[
+				"credentials",
+				"uvod-platform-api\\node_modules\\mongojs\\node_modules\\mongodb\\node_modules\\kerberos\\lib\\win32\\wrappers\\security_credentials.cc"
+			],
+			[
+				"station",
+				"uvod-platform-api\\service\\model\\station.js"
+			],
+			[
+				"progrma",
+				"uvod-platform-api\\routes\\program.js"
+			],
+			[
+				"statio",
+				"uvod-platform-api\\routes\\station.js"
+			],
+			[
+				"programser",
+				"uvod-platform-api\\service\\programService.js"
+			],
+			[
+				"pricin",
+				"uvod-platform-api\\routes\\pricingTemplate.js"
+			],
+			[
+				"listingeser",
+				"uvod-platform-api\\node_modules\\log4js\\lib\\streams\\RollingFileStream.js"
+			],
+			[
+				"listingd",
+				"uvod-platform-api\\service\\persistence\\listingDao.js"
+			],
+			[
+				"categordao",
+				"uvod-platform-api\\service\\persistence\\categoryDao.js"
+			],
+			[
+				"programervice",
+				"uvod-platform-api\\service\\programService.js"
+			],
+			[
+				"mediaservice",
+				"uvod-platform-api\\service\\mediaService.js"
+			],
+			[
+				"progrm",
+				"uvod-platform-api\\routes\\program.js"
+			],
+			[
+				"ingesser",
+				"uvod-platform-api\\service\\ingestService.js"
+			],
+			[
+				"categoryin",
+				"uvod-platform-api\\service\\model\\schema\\categoryInfo.json"
+			],
+			[
+				"userprof",
+				"uvod-platform-api\\service\\userProfileService.js"
+			],
+			[
+				"assetdao",
+				"uvod-platform-api\\service\\persistence\\assetTypeDao.js"
+			],
+			[
+				"serv",
+				"uvod-platform-api\\server.js"
+			],
+			[
+				"contrac",
+				"uvod-platform-api\\routes\\contract.js"
+			],
+			[
+				"contractser",
+				"uvod-platform-api\\service\\contractService.js"
+			],
+			[
+				"product",
+				"uvod-platform-api\\service\\model\\product.js"
+			],
+			[
+				"contractda",
+				"uvod-platform-api\\service\\persistence\\contractDao.js"
+			],
+			[
+				"periodenum",
+				"uvod-platform-api\\service\\model\\schema\\periodEnum.json"
+			],
+			[
+				"billingscheduletier",
+				"uvod-platform-api\\service\\model\\schema\\billingScheduleTier.json"
+			],
+			[
+				"subscript",
+				"uvod-platform-api\\service\\model\\subscription.js"
+			],
+			[
+				"subscri",
+				"uvod-platform-api\\routes\\subscription.js"
+			],
+			[
+				"subscro",
+				"uvod-platform-api\\service\\subscriptionService.js"
+			],
+			[
+				"produc",
+				"uvod-platform-api\\service\\model\\product.js"
+			],
+			[
+				"relative",
+				"uvod-platform-api\\service\\model\\schema\\relativePricingTier.json"
+			],
+			[
+				"absolue",
+				"uvod-platform-api\\service\\model\\schema\\absolutePricingTier.json"
+			],
+			[
+				"pricing",
+				"uvod-platform-api\\service\\pricingTemplateService.js"
+			],
+			[
+				"medidao",
+				"uvod-platform-api\\service\\persistence\\mediaDao.js"
+			],
+			[
+				"productdao",
+				"uvod-platform-api\\service\\persistence\\productDao.js"
+			],
+			[
+				"prod",
+				"uvod-platform-api\\service\\model\\product.js"
+			],
+			[
+				"permissionservice",
+				"uvod-platform-api\\service\\permissionService.js"
+			],
+			[
+				"admin",
+				"uvod-platform-api\\routes\\adminuser.js"
+			],
+			[
+				"ingest",
+				"uvod-platform-api\\service\\ingestService.js"
+			],
+			[
+				"permi",
+				"uvod-platform-api\\service\\model\\permission.js"
+			],
+			[
+				"confi",
+				"uvod-platform-api\\config\\config.js"
+			],
+			[
+				"mpxauthenticationservice",
+				"uvod-platform-api\\service\\mpxAuthenticationService.js"
+			],
+			[
+				"mpxaut",
+				"uvod-platform-api\\service\\strategy\\mpxAuthStrategy.js"
+			],
+			[
+				"packa",
+				"uvod-platform-api\\package.json"
+			],
+			[
+				"mpxauthstrategy",
+				"uvod-platform-api\\service\\strategy\\mpxAuthStrategy.js"
+			],
+			[
+				"mpxdao",
+				"uvod-platform-api\\service\\persistence\\mpxDao.js"
+			],
+			[
+				"configphp",
+				"uvod-api\\application\\config\\config.php"
+			],
+			[
+				"user_mode",
+				"uvod-api\\application\\models\\user_model.php"
+			],
+			[
+				"config",
+				"uvod-platform-api\\config\\config.js"
+			],
+			[
+				"mpxau",
+				"uvod-platform-api\\service\\mpxAuthenticationService.js"
+			],
+			[
+				"mpxpass",
+				"uvod-platform-api\\service\\strategy\\mpxPasswordStrategy.js"
+			],
+			[
+				"routeuser",
+				"uvod-platform-api\\routes\\enduser.js"
+			],
+			[
+				"account_model",
+				"uvod-portal\\application\\models\\account_model.php"
+			],
+			[
+				"mediafiledao",
+				"uvod-platform-api\\service\\persistence\\mediaFileDao.js"
+			],
+			[
+				"result",
+				"uvod-platform-api\\service\\model\\result.js"
+			],
+			[
+				"category",
+				"uvod-platform-api\\service\\model\\category.js"
+			],
+			[
+				"categoryservice",
+				"uvod-platform-api\\service\\categoryService.js"
+			],
+			[
+				"qu",
+				"uvod-platform-api\\service\\model\\query.js"
+			],
+			[
+				"mpx",
+				"uvod-platform-api\\service\\strategy\\mpxAuthStrategy.js"
+			],
+			[
+				"regis",
+				"uvod-portal\\application\\views\\themes\\rjr\\pages\\register.php"
+			],
+			[
+				"rest_controller",
+				"uvod-api\\application\\libraries\\REST_Controller.php"
+			],
+			[
+				"user.php",
+				"uvod-api\\application\\controllers\\user.php"
+			],
+			[
+				"account",
+				"uvod-portal\\application\\controllers\\account.php"
+			],
+			[
+				"login.php",
+				"uvod-portal\\application\\views\\themes\\original\\pages\\signin.php"
+			],
+			[
+				"confrj",
+				"uvod-api\\application\\config\\config_rjr.php"
+			],
+			[
+				"user_model",
+				"uvod-api\\application\\models\\user_model.php"
+			],
+			[
+				"register",
+				"uvod-portal\\application\\views\\themes\\rjr\\pages\\register.php"
+			],
+			[
+				"signin",
+				"uvod-portal\\application\\views\\themes\\rjr\\pages\\signin.php"
+			],
+			[
+				"mxpa",
+				"uvod-platform-api\\routes\\mpxauth.js"
+			],
+			[
+				"accoun_model",
+				"uvod-portal\\application\\models\\account_model.php"
+			],
+			[
+				"account_mo",
+				"uvod-portal\\application\\models\\account_model.php"
+			],
+			[
+				"mxpaut",
+				"uvod-platform-api\\routes\\mpxauth.js"
+			],
+			[
+				"testpar",
+				"uvod-platform-api\\testParse.js"
+			],
+			[
+				"mediafile",
+				"uvod-platform-api\\service\\model\\mediaFile.js"
+			],
+			[
+				"inges",
+				"uvod-platform-api\\service\\ingestService.js"
+			],
+			[
+				"conf_r",
+				"uvod-api\\application\\config\\config_rjr.php"
+			],
+			[
+				"ingestservice",
+				"uvod-platform-api\\service\\ingestService.js"
+			],
+			[
+				"mediaservi",
+				"uvod-platform-api\\service\\mediaService.js"
+			],
+			[
+				"medida",
+				"uvod-platform-api\\service\\persistence\\mediaDao.js"
+			],
+			[
+				"user_mod",
+				"uvod-api\\application\\models\\user_model.php"
+			],
+			[
+				"model/media",
+				"uvod-platform-api\\service\\model\\media.js"
+			],
+			[
+				"asste",
+				"uvod-platform-api\\routes\\assetType.js"
+			],
+			[
+				"medias",
+				"uvod-platform-api\\service\\mediaService.js"
+			],
+			[
+				"authser",
+				"uvod-platform-api\\service\\authenticationService.js"
+			],
+			[
+				"filema",
+				"uvod-platform-api\\routes\\fileManager.js"
+			],
+			[
+				"chapter",
+				"uvod-platform-api\\service\\model\\schema\\chapter.json"
+			],
+			[
+				"ftpte",
+				"uvod-platform-api\\ftpTest.js"
+			],
+			[
+				"fileservice",
+				"uvod-platform-api\\service\\fileService.js"
+			],
+			[
+				"availabilitystateenum",
+				"uvod-platform-api\\service\\model\\schema\\availabilityStateEnum.json"
+			],
+			[
+				"mediafileser",
+				"uvod-platform-api\\service\\mediaFileService.js"
+			],
+			[
+				"mediafi",
+				"uvod-platform-api\\routes\\mediaFile.js"
+			],
+			[
+				"model/user.js",
+				"uvod-platform-api\\service\\model\\user.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Diego\\Desktop\\uvod\\subline\\uvod.sublime-project"
+			],
+			[
+				"calc",
+				"C:\\Users\\Diego\\Desktop\\calcubox\\subline\\calcubox.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"%m should output the log data"
+			]
+		],
+		"width": 624.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 413.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
