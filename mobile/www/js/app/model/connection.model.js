@@ -57,16 +57,16 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
 					to: ['test', this.BOSH_DOMAIN].join('@'), 
 					type: "chat"
 				})
-                .c("body")
-                .t(body);
+				.c("body")
+				.t(body);
 
-            this.log('Enviando alerta...');
+			this.log('Enviando alerta...');
 
-            //Register the handler, since is cleared once the message is processed
+			//Register the handler, since is cleared once the message is processed
 			this.connection.addHandler(_.bind(this.onMessage, this), null, 'message', null, null,  null); 
 
 			//Send the stanza
-            this.connection.send(stanza.tree()); 
+			this.connection.send(stanza.tree()); 
 		},
 
 		//To log on console element
@@ -115,7 +115,10 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
 			console.log('===>> STROPHE ON MESSAGE: ', body);
 			ButtonApp.Event.trigger('xmpp-message', body);
 
-			this.log(CodesModel.MSG_STATUS_DESCRIPTION[body.status]);
+			this.log(body.text || CodesModel.MSG_STATUS_DESCRIPTION[body.status]);
+
+            //Register the handler, since is cleared once the message is processed
+			this.connection.addHandler(_.bind(this.onMessage, this), null, 'message', null, null,  null); 
 		}
 	};
 });

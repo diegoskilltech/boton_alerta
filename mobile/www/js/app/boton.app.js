@@ -44,6 +44,7 @@ define(['jquery', 'underscore', 'handlebars', './model/connection.model', './mod
 			$('[data-action=call]').on('click', _.bind(this.doCall, this));
 
 			ButtonApp.Event.on('xmpp-message', _.bind(this.onResponse, this));
+			ButtonApp.Event.on('xmpp-disconnected', _.bind(this.doReconnect, this));
 		},
 
 		// Update DOM on a Received Event
@@ -58,6 +59,11 @@ define(['jquery', 'underscore', 'handlebars', './model/connection.model', './mod
 			var el = $(e.currentTarget);
 			var to = el.attr('data-to');
 			this.conn.send(to, 'PIRULO');
+		},
+
+		//To reconnect with oc when disconnected
+		doReconnect: function(){
+			_.delay(_.bind(this.conn.connect, this.conn), 5000);
 		},
 
 		//To handle the response
