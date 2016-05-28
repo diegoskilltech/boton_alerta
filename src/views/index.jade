@@ -22,7 +22,7 @@ html
 		.panel-overlay
 
 		// Left panel with reveal effect
-		.panel.panel-left.panel-reveal
+		//.panel.panel-left.panel-reveal
 			.content-block
 				p Left panel content goes here
 
@@ -37,15 +37,16 @@ html
 					.page(data-page="index")
 
 						// Top Navbar. In Material theme it should be inside of the page
-						.navbar
+						.navbar(style="background-color: #008457;")
 							.navbar-inner
-								.left
+								img(src="img/logo-header.png", style="height: 56px;")
+								//.left
 									a.link.icon-only.open-panel(href="#")
 										i.icon.icon-bars
 								
-								.center Botón Alerta
+								//.center
 
-								.right
+								//.right
 									a.link.icon-only(href="#", data-status='connected')
 										i.ion-android-cloud-done
 
@@ -54,25 +55,28 @@ html
 							.content-block
 								.row
 									.col-50
-										.text-center.color-red BOMBEROS
-										div(data-action='call', data-to='FIREFIGHTERS')
-											img.action-btn.bg-red(src='img/fire-btn.svg')
-
-									.col-50
-										.text-center.color-green MÉDICO
-										div(data-action='call', data-to='AMBULANCE')
-											img.action-btn.bg-green(src='img/medic-btn.svg')
-
-								.row.m-top
-									.col-50
-										.text-center.color-indigo POLICÍA
+										.text-center.color-indigo SEGURIDAD
 										div(data-action='call', data-to='POLICE')
 											img.action-btn.bg-indigo(src='img/police-btn.svg')
 
 									.col-50
+										.text-center.color-green EMERGENCIA
+										div(data-action='call', data-to='AMBULANCE')
+											img.action-btn.bg-green(src='img/medic-btn.svg')
+
+
+								//.row.m-top
+									.col-50
+										.text-center.color-red BOMBEROS
+										div(data-action='call', data-to='FIREFIGHTERS')
+											img.action-btn.bg-red(src='img/fire-btn.svg')
+									.col-50
 										.text-center.color-purple VIOLENCIA GÉNERO
 										div(data-action='call', data-to='VIOLENCE')
 											img.action-btn.bg-purple(src='img/genre-btn.svg')
+
+							.content-block
+								a(data-action="reset").button.button-raised.color-blue Sincronizar
 
 							.content-block
 								#log.text-center.color-gray Conectando con el dispositivo...

@@ -42,9 +42,12 @@ define(['jquery', 'underscore', 'handlebars', './model/connection.model', './mod
 			ButtonApp.Event.on('log-message', _.bind(this.receivedEvent, this));
 
 			$('[data-action=call]').on('click', _.bind(this.doCall, this));
+			$('[data-action=reset]').on('click', _.bind(this.doReset, this));
 
 			ButtonApp.Event.on('xmpp-message', _.bind(this.onResponse, this));
 			ButtonApp.Event.on('xmpp-disconnected', _.bind(this.doReconnect, this));
+
+			ButtonApp.Event.on('msg-reset', _.bind(this.doReset, this));
 		},
 
 		// Update DOM on a Received Event
@@ -64,6 +67,11 @@ define(['jquery', 'underscore', 'handlebars', './model/connection.model', './mod
 		//To reconnect with oc when disconnected
 		doReconnect: function(){
 			_.delay(_.bind(this.conn.connect, this.conn), 5000);
+		},
+
+		//To remove the current status
+		doReset: function(){
+			$('.status-icon').remove();
 		},
 
 		//To handle the response
