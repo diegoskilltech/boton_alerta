@@ -9,7 +9,7 @@ define(['strophe', 'underscore', './codes.model'], function(StropheModule, _, Co
 	return {
 		BOSH_SERVICE: 'http://botonalerta.com:5280/http-bind/',
 		BOSH_DOMAIN: 'demomonitor.org',
-		USER: 'mauricio', //'juliet',
+		USER: 'ricardo', //'juliet',
 		PASSWORD: 'Test1234', //'R0m30',
 		connection: null,
 
