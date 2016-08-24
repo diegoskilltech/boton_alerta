@@ -18,11 +18,11 @@
     <!--Panels overlay-->
     <div class="panel-overlay"></div>
     <!-- Left panel with reveal effect-->
-    <div class="panel panel-left panel-reveal">
-      <div class="content-block">
-        <p>Left panel content goes here</p>
-      </div>
-    </div>
+    <!--.panel.panel-left.panel-reveal
+    .content-block
+    	p Left panel content goes here
+    
+    -->
     <div class="views">
       <!--Your main view, should have "view-main" class-->
       <div class="view view-main">
@@ -32,9 +32,14 @@
           <div data-page="index" class="page">
             <!-- Top Navbar. In Material theme it should be inside of the page-->
             <div class="navbar">
-              <div class="navbar-inner">
-                <div class="left"><a href="#" class="link icon-only open-panel"><i class="icon icon-bars"></i></a></div>
-                <div class="center">Botón Alerta</div>
+              <div style="background-color: #ffd300;" class="navbar-inner">
+                <div class="left">
+                  <!--a.link.icon-only.open-panel(href="#")
+                  i.icon.icon-bars
+                  
+                  -->
+                </div>
+                <div syle="margin: auto;" class="center"><img src="img/bac-header.svg" style="height: 36px; margin-top: 17px;"></div>
                 <div class="right"><a href="#" data-status="connected" class="link icon-only"><i class="ion-android-cloud-done"></i></a></div>
               </div>
             </div>

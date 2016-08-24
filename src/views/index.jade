@@ -22,7 +22,7 @@ html
 		.panel-overlay
 
 		// Left panel with reveal effect
-		.panel.panel-left.panel-reveal
+		//.panel.panel-left.panel-reveal
 			.content-block
 				p Left panel content goes here
 
@@ -38,12 +38,13 @@ html
 
 						// Top Navbar. In Material theme it should be inside of the page
 						.navbar
-							.navbar-inner
+							.navbar-inner(style="background-color: #ffd300;")
 								.left
-									a.link.icon-only.open-panel(href="#")
+									//a.link.icon-only.open-panel(href="#")
 										i.icon.icon-bars
 								
-								.center Botón Alerta
+								.center(syle='margin: auto;')
+									img(src="img/bac-header.svg", style="height: 36px; margin-top: 17px;")
 
 								.right
 									a.link.icon-only(href="#", data-status='connected')
